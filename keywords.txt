@@ -1,0 +1,8 @@
+Blinker		KEYWORD1
+start		KEYWORD2
+restart		KEYWORD2
+active		KEYWORD2
+finished	KEYWORD2
+tick		KEYWORD2
+tock		KEYWORD2
+state		KEYWORD2
